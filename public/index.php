@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 session_start();
 
-const APP_VERSION = '0.1.0';
+const APP_VERSION = '0.1.1';
 const ROOT = __DIR__ . '/..';
 const CONFIG_FILE = ROOT . '/storage/config.php';
 
